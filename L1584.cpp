@@ -60,7 +60,6 @@ public:
         }
       }
     }
-
     return totalCost;
   }
 };
