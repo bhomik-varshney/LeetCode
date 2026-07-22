@@ -100,3 +100,6 @@ public:
     }
   }
 };
+
+// time complexity would be O(n) ; where n = max(s.size(),t.size())
+// space complexity would be O(n+m)
