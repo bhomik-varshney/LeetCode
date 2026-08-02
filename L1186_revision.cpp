@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vectpr>
+#include <vector>
 using namespace std;
 
 class Solution
